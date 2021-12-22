@@ -6,8 +6,17 @@
     "publisher": "NoahHarborth",
     "repository": {
         "type": "git",
-        "url": ""
+        "url": "https://github.com/noah-hrbth/nowyy-theme.git"
     },
+    "keywords": [
+        "dark theme",
+        "theme",
+        "kuwyy",
+        "Kuwyy",
+        "nowyy",
+        "Nowyy",
+        "nowyy theme"
+    ],
     "engines": {
         "vscode": "^1.63.0"
     },

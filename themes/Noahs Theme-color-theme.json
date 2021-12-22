@@ -204,6 +204,13 @@
       }
     },
     {
+      "name": "js/ts variable.other.constant",
+      "scope": "variable.other.constant.property.js",
+      "settings": {
+        "foreground": "#83c5be"
+      }
+    }
+    {
       "name": "java type",
       "scope": [
         "storage.type.annotation.java",
@@ -599,7 +606,7 @@
         "variable.function"
       ],
       "settings": {
-        "foreground": "#00a884"
+        "foreground": "#06D6A0"
       }
     },
     {
@@ -736,7 +743,7 @@
       "name": "Strings",
       "scope": "string",
       "settings": {
-        "foreground": "#06D6A0"
+        "foreground": "#d46ec0"
       }
     },
     {

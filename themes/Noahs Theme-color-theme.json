@@ -209,7 +209,7 @@
       "settings": {
         "foreground": "#83c5be"
       }
-    }
+    },
     {
       "name": "java type",
       "scope": [

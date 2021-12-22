@@ -200,7 +200,7 @@
       "name": "js/ts variable.other.constant",
       "scope": "variable.other.constant",
       "settings": {
-        "foreground": "#ec9531"
+        "foreground": "#d46ec0"
       }
     },
     {
@@ -336,7 +336,7 @@
       "name": "js variable readwrite",
       "scope": "variable.other.readwrite,meta.object-literal.key,support.variable.property,support.variable.object.process,support.variable.object.node",
       "settings": {
-        "foreground": "#e35535"
+        "foreground": "#eeeeee"
       }
     },
     {
@@ -736,7 +736,7 @@
       "name": "Strings",
       "scope": "string",
       "settings": {
-        "foreground": "#d46ec0"
+        "foreground": "#06D6A0"
       }
     },
     {
@@ -793,7 +793,7 @@
       "scope": "entity.other.attribute-name.id",
       "settings": {
         "fontStyle": "normal",
-        "foreground": "#00a884"
+        "foreground": "#38c7bd"
       }
     },
     {
@@ -801,7 +801,7 @@
       "scope": "entity.other.attribute-name.class.css",
       "settings": {
         "fontStyle": "normal",
-        "foreground": "#38c7bd"
+        "foreground": "#00a884"
       }
     },
     {
@@ -1923,7 +1923,7 @@
     "editorWhitespace.foreground": "#e3e4e229",
     "editor.selectionHighlightBackground": "#add6ff26",
     "editor.selectionHighlightBorder": "#242428",
-    "editor.findMatchBackground": "#483248",
+    "editor.findMatchBackground": "#242428",
     "editor.findMatchBorder": "#242428",
     "editor.findMatchHighlightBackground": "#483248",
     "editor.findMatchHighlightBorder": "#ffffff00",
@@ -1934,7 +1934,7 @@
     "editor.hoverHighlightBackground": "#264f7840",
     "editor.wordHighlightStrongBackground": "#483248",
     "editor.wordHighlightBackground": "#32363f",
-    "editor.lineHighlightBackground": "#483248",
+    "editor.lineHighlightBackground": "#242428",
     "editor.lineHighlightBorder": "#00000000",
     "editorLineNumber.activeForeground": "#ffd166",
     "editorLink.activeForeground": "#ffd166",

@@ -1,0 +1,26 @@
+{
+    "name": "nowyy-theme",
+    "displayName": "Nowyy Theme",
+    "description": "Just a little theme in love for my Kuwyy :)",
+    "version": "1.0.0",
+    "publisher": "NoahHarborth",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Noahs Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Noahs Theme-color-theme.json"
+            }
+        ]
+    }
+}
